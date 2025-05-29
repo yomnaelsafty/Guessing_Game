@@ -1,4 +1,3 @@
-# Guessing_Game
 # 🎯 Guessing Game
 
 A fun and simple Python game where the player tries to guess a randomly generated number within a limited number of attempts.
